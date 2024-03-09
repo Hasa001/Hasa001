@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harshit Saini</h2><br>
+<h2 align="center">Hi, I'm Harshit👋</h2>
 
 ###
 
@@ -9,15 +9,21 @@
 
 ###
 
-<h4 align="left">SKILLS</h4>
+<br clear="both">
+
+<div align="center">
+  <img height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJsMDUzcThrNmZwMHJzNmQzMHFndHdpbzM3ZDJrZnh4cXNicGFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"  />
+</div>
 
 ###
 
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM5Y291ajBlZ3JzZnB0bWtxZXl4dnU1bXNxeTJmZWx4OGhhbGhoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+<br clear="both">
+
+<h4 align="center">SKILLS</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
@@ -43,11 +49,11 @@
 
 ###
 
-<h4 align="left">CONTACT</h4>
+<h4 align="center">CONTACT</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/harshit_saini001?igsh=cTc0aGljY2xkMm0z" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
   </a>
