@@ -1,10 +1,14 @@
-<h2 align="center">Hi, I'm Harshit👋</h2>
+<br clear="both">
+
+<h1 align="center">Hi, I'm Harshit👋</h1>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasa001&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasa001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasa001&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasa001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -12,7 +16,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="210" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJsMDUzcThrNmZwMHJzNmQzMHFndHdpbzM3ZDJrZnh4cXNicGFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJsMDUzcThrNmZwMHJzNmQzMHFndHdpbzM3ZDJrZnh4cXNicGFhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif"  />
 </div>
 
 ###
@@ -66,6 +70,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hasa001/Hasa001/output/snake.svg" alt="Snake animation" />
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Hasa001/Hasa001/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
