@@ -1,15 +1,10 @@
-### Hi there 👋
-
 <div align="center">
   <img height="231" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM5Y291ajBlZ3JzZnB0bWtxZXl4dnU1bXNxeTJmZWx4OGhhbGhoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
-<!--   <img src= -->
-
-<!--   alt="Snake animation" /> -->
 </div>
 
 ###
 
-  ![Snake animation](https://github.com/Hasa001/Hasa001/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Hasa001/Hasa001/output/snake.svg" alt="Snake animation" />
 
 ###
 
