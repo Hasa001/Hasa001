@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hasa001/Hasa001/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
